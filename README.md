@@ -45,14 +45,15 @@ Here are a few highlights from my career:
 > 📂 More repositories coming soon with cleaned-up source code & docs.
 
 ---
+ 
+### 📊 GitHub Statistics
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faroukkraiem&show_icons=true&theme=radical" alt="Farouk's stats"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faroukkraiem&layout=compact&theme=radical"/>
-</p>
+<div align="center">
+  <a href="https://github.com/faroukkraiem">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faroukkraim&layout=compact&langs_count=10&theme=dracula&hide=html,visual%20basic,TSQL,css,scss"/>
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=faroukkraim&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  </a>
+</div>
 
 ---
 
