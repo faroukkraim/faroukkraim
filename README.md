@@ -54,13 +54,3 @@ Here are a few highlights from my career:
     <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=faroukkraim&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </a>
 </div>
-
----
-
-### 🤝 Let's Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/farouk-kraiem-649428131/)
-- 📫 faroukkraim@gmail.com  
-- 📍 Luxembourg  
-
- 
