@@ -40,7 +40,7 @@ Here are a few highlights from my career:
 - 🔒 **[EU Sign Platform](#)** – Qualified signature platform for European Commission (4M+ annual transactions)
 - 📊 **[Generali Risk Assessment](#)** – AML/CTF scoring app for regulatory compliance
 - 🏦 **[Bankerise Core System](#)** – Modular banking product with BPM architecture
-- 🔁 **[Batch Transfers for Dukhan Bank](#)** – Bulk transfer module with secure microservices
+- 🔁 **[Dukhan Bank](#)** – Bulk transfer module with secure microservices
 
 > 📂 More repositories coming soon with cleaned-up source code & docs.
 
@@ -59,7 +59,7 @@ Here are a few highlights from my career:
 
 ### 🤝 Let's Connect
 
-- 💼 [LinkedIn]([https://www.linkedin.com/in/farouk-kraiem](https://www.linkedin.com/in/farouk-kraiem-649428131/))  
+- 💼 [LinkedIn](https://www.linkedin.com/in/farouk-kraiem-649428131/)
 - 📫 faroukkraim@gmail.com  
 - 📍 Luxembourg  
 
